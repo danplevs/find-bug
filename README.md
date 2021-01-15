@@ -1,6 +1,6 @@
 # find-bug-exercise #
 An automated solution to the [find-bug git exercise](https://gitexercises.fracz.com/exercise/find-bug). 
-This exercise is available on the [Git Exercises platform](https://gitexercises.fracz.com/) created by [Wojciech Frącz](https://www.researchgate.net/profile/Wojciech_Fracz) and [Jacek Dajda](https://www.researchgate.net/profile/Jacek_Dajda).
+This exercise is available on the [Git Exercises platform](https://gitexercises.fracz.com/), created by [Wojciech Frącz](https://www.researchgate.net/profile/Wojciech_Fracz) and [Jacek Dajda](https://www.researchgate.net/profile/Jacek_Dajda).
 
 ## Instructions ##
 ### Getting started with Git Exercises ###
