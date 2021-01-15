@@ -16,8 +16,8 @@ git config user.email "Your e-mail here"
 ```shell
 cd ..
 git clone https://github.com/danplevs/find-bug-exercise.git
-git start find-bug
 cd exercises
+git start find-bug
 ../find-bug-exercise/solution.sh
 ```
 This will clone this repository on the same parent directory of the "exercises" repository, start the mentioned exercise and then execute the solution.
