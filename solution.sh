@@ -1,5 +1,4 @@
 #!/bin/bash
-git start find-bug
 git bisect start
 git bisect bad
 git bisect good 1.0
